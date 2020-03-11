@@ -1,4 +1,4 @@
-# SprinklesScript
+# Sprinkles
 
 An Ethereum ERC 20 based and Unity based card trading game.
 
